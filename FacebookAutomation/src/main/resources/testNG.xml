@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Facebook Test Automation Suite">
+	
+	<test name="facebook automation test">
+		<classes>
+			<class name="com.bridgelabz.facebook.page.HomePageTest" />
+			<class name="com.bridgelabz.facebook.page.LoginPageTest"/>
+
+		</classes>
+
+		<!-- <groups></groups>
+
+	</test>
+</suite>
